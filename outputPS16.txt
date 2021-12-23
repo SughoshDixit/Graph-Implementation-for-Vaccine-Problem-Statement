@@ -1,0 +1,54 @@
+
+--------Function displayAll--------
+Total no. of strains: 6 
+Total no. of vaccines: 8 
+
+ List of strains:
+------------------
+L452R
+B117
+B1617
+P1
+229E
+B1351
+ List of vaccines:
+
+------------------
+Covaxin
+CoronaVac
+Pfizer
+SputnikLight
+J&J
+Moderna
+CoviShield
+SputnikV
+------Function displayStrains---------
+
+Vaccine Name: Covaxin
+
+List Of strains:
+P1
+229E
+B1351
+-----Function displayVaccine---------
+
+Strain Name:P1
+
+List Of Vaccines:
+CoviShield
+Covaxin
+CoronaVac
+SputnikLight
+-----Function commonStrain---------
+
+VaccineA:Pfizer
+VaccineB:Moderna
+B1617
+B117
+-----Function findVaccineConnect---------
+
+VaccineA:Moderna
+VaccineB:J&J
+CoronaVac
+Pfizer
+SputnikLight
