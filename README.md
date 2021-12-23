@@ -7,7 +7,7 @@ which vaccines have been found effective against a virus strain (either in the p
 you need to have some system of storing these vaccines and the strains they have neutralized.
 Assume that you have a list of N strains and M vaccines. For the sake of this assignment, let us 
 assume that a particular vaccine could neutralize only two strains at max.
-Write an application that maps COVID Strains and Vaccines and can answer the below queries:
+This is to write an application that maps COVID Strains and Vaccines and can answer the below queries:
 1. List the unique strains and vaccines the researcher has collected in the system.
 2. For a particular strain, help the reporter recollect the vaccines it has been neutralized by.
 3. For a particular vaccine, list the strains that have been neutralized with it (past or present).
